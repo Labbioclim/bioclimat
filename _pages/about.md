@@ -11,9 +11,9 @@ Descripción del gruopo
 
 Líneas de investigación
 ------
-* Biogeografía y Bioclimatología, buscando analizar las áreas de distribución de las especies, así como sus patrones geográficos, ecológicos y temporales como respuesta al dinamismo climático, mediante el uso de modelado de nichos ecológicos.
-* Taxonomía alfa, mediante la reinterpretación de los límites entre las especies y su efecto en el conocimiento de la biodiversidad.
-* Conservación, sumando los esfuerzos de las líneas anteriores aplicados a la conservación de la biodiversidad.
+* *Biogeografía y Bioclimatología*, buscando analizar las áreas de distribución de las especies, así como sus patrones geográficos, ecológicos y temporales como respuesta al dinamismo climático, mediante el uso de modelado de nichos ecológicos.
+* *Taxonomía alfa*, mediante la reinterpretación de los límites entre las especies y su efecto en el conocimiento de la biodiversidad.
+* *Conservación*, sumando los esfuerzos de las líneas anteriores aplicados a la conservación de la biodiversidad.
 
 Investigadores principales
 ------
@@ -22,6 +22,7 @@ Investigadores principales
 
 **Claudio Mota-Vargas**
 [ResearchGate](/images/Lab_logo_png.png)
+researchgate     : "https://www.researchgate.net/lab/Laboratorio-de-Bioclimatologia-Octavio-R-Rojas-Soto"
 
 Site-wide configuration
 ------
