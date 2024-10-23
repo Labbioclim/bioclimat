@@ -21,8 +21,10 @@ Investigadores principales
 [ResearchGate](https://www.researchgate.net/profile/Octavio-Rojas-Soto)
 
 **Claudio Mota-Vargas**
+======
 [ResearchGate](/images/Lab_logo_png.png)
-researchgate     : "https://www.researchgate.net/lab/Laboratorio-de-Bioclimatologia-Octavio-R-Rojas-Soto"
+======
+researchgate     : https://www.researchgate.net/lab/Laboratorio-de-Bioclimatologia-Octavio-R-Rojas-Soto
 
 Site-wide configuration
 ------
