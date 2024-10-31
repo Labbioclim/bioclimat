@@ -82,7 +82,7 @@ publication_category:
   conferences:
     title: 'Conference'
 
-# Publication Category - The following the list of publication categories and their headings
+# Student Category - The following the list of publication categories and their headings
 students_category:
   master:
     title: 'Maestria'
