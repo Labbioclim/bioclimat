@@ -83,7 +83,7 @@ publication_category:
     title: 'Conference'
 
 # Student Category - The following the list of publication categories and their headings
-students_category:
+portfolio_category:
   master:
     title: 'Maestria'
   doctoral:
