@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/79cc69bf-1a73-4099-9985-3219b6865115)---
+---
 title: "Juan Sebastián Forero-Rodríguez"
 collection: portfolio
 category: master
