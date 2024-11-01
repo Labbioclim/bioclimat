@@ -84,9 +84,9 @@ publication_category:
 
 # Student Category - The following the list of publication categories and their headings
 portfolio_category:
-  master:
+  msc:
     title: 'Maestria'
-  doctoral:
+  phd:
     title: 'Doctorado'    
 
 # Site Settings
