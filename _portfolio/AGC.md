@@ -1,7 +1,7 @@
 ---
-title: "Alejandra Galindo-Cruz"
+title: "Dra. Alejandra Galindo-Cruz"
 collection: portfolio
-category: phd
+category: gstud
 permalink: 'https://www.researchgate.net/profile/Alejandra-Galindo-Cruz'
-excerpt: "<img src='https://labbioclim.github.io/bioclimat/images/500x300.png'><br/> I am interested in the effect of climate on the ecology, evolution, and distribution of biodiversity. My current work focuses on understanding how environmental dynamics determine the spatio-­temporal patterns of global amphibian declines triggered by emerging diseases"
+excerpt: "<img src='https://labbioclim.github.io/bioclimat/images/500x300.png'><br/> Soy una joven investigadora apasionada por desentrañar las repercusiones del cambio global en la distribución de las especies, con especial interés en la conservación de especies y la ecología del paisaje."
 ---
