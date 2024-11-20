@@ -87,7 +87,9 @@ portfolio_category:
   msc:
     title: 'Maestria'
   phd:
-    title: 'Doctorado'    
+    title: 'Doctorado'
+  gstud:
+    title: 'Estudiantes graduados'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
