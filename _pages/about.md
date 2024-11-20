@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![](https://labbioclim.github.io/bioclimat/images/alex.png)
+![](https://labbioclim.github.io/bioclimat/images/grupo.png)
 
 Descripción del grupo
 
