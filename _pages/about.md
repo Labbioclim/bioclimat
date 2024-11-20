@@ -17,8 +17,7 @@ Líneas de investigación
 
 Investigadores principales
 ------
-**Octavio Rojas-Soto**
-[ResearchGate](https://www.researchgate.net/profile/Octavio-Rojas-Soto)
+[**Octavio Rojas-Soto**](https://www.researchgate.net/profile/Octavio-Rojas-Soto)
 
 **Claudio Mota-Vargas**
 ![ResearchGate](/images/Lab_logo_png.png){#id .class width=30 height=20px}
