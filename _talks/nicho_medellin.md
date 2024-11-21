@@ -1,12 +1,13 @@
 ---
 title: "Curso: Modelos de Nicho Ecológico y Distribuciones Geográficas de Especies"
 collection: talks
-type: "Conference proceedings talk"
+type: "Curso intensivo"
 permalink: /talks/nicho_medellin
-venue: "Cursos de posgrado"
-date: 2024-10-25
+date: 2024-11-25
 location: "Universidad de Antioquia, Medellín, Colombia"
 ---
+
+[Mayores informes](https://share.udea.edu.co/?q=po:o5323)
 
 Este curso te introduce a los modelos correlativos para estimar nichos ecológicos y distribuciones potenciales de especies, herramientas clave en ecología, evolución, biogeografía, conservación y más. Adquiere conocimientos y habilidades en el uso de herramientas computacionales para manejar información biológica y geográfica, desarrollando competencias esenciales para la investigación y el análisis ambiental.
 ¿A quién está dirigido?
@@ -17,4 +18,3 @@ Contenidos del curso:
 - Modelación de nichos y distribuciones (I, II, III)
 - Proyecto final
 
-[Mayores informes](https://share.udea.edu.co/?q=po:o5323)
