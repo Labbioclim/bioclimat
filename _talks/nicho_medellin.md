@@ -1,7 +1,7 @@
 ---
 title: "Curso: Modelos de Nicho Ecológico y Distribuciones Geográficas de Especies"
 collection: talks
-type: "Curso intensivo"
+type: "Talks"
 permalink: /talks/nicho_medellin
 venue: "Cursos de posgrado"
 date: 2024-10-25
