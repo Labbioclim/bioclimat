@@ -2,9 +2,9 @@
 title: "Calibration areas in ecological niche and species distribution modelling: Unravelling approaches and concepts"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-16-03-paper-title-number-1
+permalink: /publication/2024-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024-16-03
+date: 2024-10-01
 venue: 'Journal of Biogeography'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
