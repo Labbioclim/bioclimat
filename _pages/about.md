@@ -8,7 +8,7 @@ redirect_from:
 ---
 ![](https://labbioclim.github.io/bioclimat/images/grupo.png)
 
-Descripción del grupo
+En nuestro grupo de investigación estudiamos las relaciones ecológicas de las especies a lo largo de su distribución. Además, a través del uso de nichos ecológicos y intentamos reconstruir la distribución de diferentes especies y grupos taxonómicos, como mamíferos, aves, reptiles, anfibios e insectos. 
 
 Líneas de investigación
 ------
@@ -19,9 +19,11 @@ Líneas de investigación
 Investigadores principales
 ------
 [**Octavio Rojas-Soto**](https://www.researchgate.net/profile/Octavio-Rojas-Soto)
+![](https://labbioclim.github.io/bioclimat/images/octavio.png)
+Me interesa la biología evolutiva de los vertebrados y su relación con los patrones geográficos y ambientales de distribución de especies a diferentes escalas temporales y espaciales. Mis intereses también incluyen los nichos ecológicos, así como la modelización y conservación de la distribución de especies.
 
 **Claudio Mota-Vargas**
-![ResearchGate](/images/Lab_logo_png.png){#id .class width=30 height=20px}
+![ResearchGate](/images/Lab_logo_png.png)
 
 researchgate     : https://www.researchgate.net/lab/Laboratorio-de-Bioclimatologia-Octavio-R-Rojas-Soto
 
