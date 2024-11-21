@@ -9,7 +9,7 @@ main:
     url: /estudiantes/
     
   - title: "Publicaciones"
-    url: /publicaciones/
+    url: /markdown/
 
   - title: "Cursos"
     url: /cursos/    
