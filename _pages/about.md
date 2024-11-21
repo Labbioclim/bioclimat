@@ -30,10 +30,10 @@ Investigadores principales
 
 <div style="display: flex; align-items: center;">
   <img src="https://labbioclim.github.io/bioclimat/images/claudio.png" alt="Descripción de la imagen" width="150" style="margin-right: 10px;">
-  <p> Texto claudio.</p>
+  <p> Texto Claudio.</p>
 </div>
 
-Investigadores asociados
+Principales colaboradores
 ------
 * Juan L. Parra
 * Fabricio Villalobos Camacho
