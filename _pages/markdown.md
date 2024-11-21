@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /publicaciones/
 title: "Publicaciones"
 author_profile: true
 redirect_from: 
