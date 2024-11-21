@@ -2,7 +2,7 @@
 title: "Calibration areas in ecological niche and species distribution modelling: Unravelling approaches and concepts"
 collection: publications
 category: manuscripts
-link: " https://doi.org/10.1111/jbi.14834"
+link: "https://doi.org/10.1111/jbi.14834"
 permalink: "https://labbioclim.github.io/ https://doi.org/10.1111/jbi.14834"
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024
