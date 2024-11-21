@@ -1,5 +1,5 @@
 ---
-permalink: /publicaciones/
+permalink: /markdown/
 title: "Publicaciones"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 
 ## Locations of key files/directories
 
-* Basic config options: _config.yml
+* Basic config options: _config.yml``
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
