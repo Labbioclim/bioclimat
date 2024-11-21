@@ -25,10 +25,17 @@ Investigadores principales
   <p>Me interesa la biología evolutiva de los vertebrados y su relación con los patrones geográficos y ambientales de distribución de especies a diferentes escalas temporales y espaciales. Mis intereses también incluyen los nichos ecológicos, así como la modelización y conservación de la distribución de especies.</p>
 </div>
 
+
 [**Claudio Mota-Vargas**](https://www.researchgate.net/profile/Claudio-Mota-Vargas)
 
-<img src="https://labbioclim.github.io/bioclimat/images/claudio.png" alt="Descripción de la imagen" width="150">
+<div style="display: flex; align-items: center;">
+  <img src="https://labbioclim.github.io/bioclimat/images/claudio.png" alt="Descripción de la imagen" width="150" style="margin-right: 10px;">
+  <p> Texto claudio.</p>
+</div>
 
-researchgate     : https://www.researchgate.net/lab/Laboratorio-de-Bioclimatologia-Octavio-R-Rojas-Soto
-
-
+Investigadores asociados
+------
+* Juan L. Parra
+* Fabricio Villalobos Camacho
+* Javier Nori
+* Felipe A. Toro-Cardona
