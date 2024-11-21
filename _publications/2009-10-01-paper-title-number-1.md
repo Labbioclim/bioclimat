@@ -1,13 +1,14 @@
 ---
-title: "Calibration areas in ecological niche and species distribution modelling: Unravelling approaches and concepts"
+title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
-link: "https://doi.org/10.1111/jbi.14834"
-permalink: "https://labbioclim.github.io/ https://doi.org/10.1111/jbi.14834"
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024
-venue: 'Journal of Biogeography'
-citation: 'Rojas‐Soto, O., Forero‐Rodríguez, J. S., Galindo‐Cruz, A., Mota‐Vargas, C., Parra‐Henao, K. D., Peña‐Peniche, A., ... & Trinidad‐Domínguez, C. D. (2024). Calibration areas in ecological niche and species distribution modelling: Unravelling approaches and concepts. Journal of Biogeography, 51(8), 1416-1428. https://doi.org/10.1111/jbi.14834'
+date: 2009-10-01
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
