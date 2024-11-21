@@ -78,14 +78,14 @@ publication_category:
   books:
     title: 'Libros o capítulos'
   manuscripts:
-    title: 'Artículos'    
-  divulgacion:
-    title: 'Divulgación'
+    title: 'Artículos'
+  conferences:
+    title: 'Conferences'
 
 # Student Category - The following the list of publication categories and their headings
 portfolio_category:
   msc:
-    title: 'Maestria'
+    title: 'Maestría'
   phd:
     title: 'Doctorado'
   gstud:
