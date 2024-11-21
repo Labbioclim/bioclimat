@@ -76,11 +76,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Libros / Capítulos'
   manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference'
+    title: 'Artículos'    
+  divulgacion:
+    title: 'Divulgación'
 
 # Student Category - The following the list of publication categories and their headings
 portfolio_category:
