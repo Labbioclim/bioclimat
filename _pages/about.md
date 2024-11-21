@@ -20,9 +20,10 @@ Investigadores principales
 ------
 [**Octavio Rojas-Soto**](https://www.researchgate.net/profile/Octavio-Rojas-Soto)
 
-<img src="https://labbioclim.github.io/bioclimat/images/octavio.png" alt="Descripción de la imagen" width="150">
-
-Me interesa la biología evolutiva de los vertebrados y su relación con los patrones geográficos y ambientales de distribución de especies a diferentes escalas temporales y espaciales. Mis intereses también incluyen los nichos ecológicos, así como la modelización y conservación de la distribución de especies.
+<div style="display: flex; align-items: center;">
+  <img src="https://labbioclim.github.io/bioclimat/images/octavio.png" alt="Descripción de la imagen" width="150" style="margin-right: 10px;">
+  <p>Me interesa la biología evolutiva de los vertebrados y su relación con los patrones geográficos y ambientales de distribución de especies a diferentes escalas temporales y espaciales. Mis intereses también incluyen los nichos ecológicos, así como la modelización y conservación de la distribución de especies.</p>
+</div>
 
 [**Claudio Mota-Vargas**](https://www.researchgate.net/profile/Claudio-Mota-Vargas)
 
