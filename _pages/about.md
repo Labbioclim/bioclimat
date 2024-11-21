@@ -19,11 +19,14 @@ Líneas de investigación
 Investigadores principales
 ------
 [**Octavio Rojas-Soto**](https://www.researchgate.net/profile/Octavio-Rojas-Soto)
-![](https://labbioclim.github.io/bioclimat/images/octavio.png)
+------
+<img src="https://labbioclim.github.io/bioclimat/images/octavio.png" alt="Descripción de la imagen" width="150">
+
 Me interesa la biología evolutiva de los vertebrados y su relación con los patrones geográficos y ambientales de distribución de especies a diferentes escalas temporales y espaciales. Mis intereses también incluyen los nichos ecológicos, así como la modelización y conservación de la distribución de especies.
 
 **Claudio Mota-Vargas**
-![ResearchGate](/images/Lab_logo_png.png)
+------
+<img src="https://labbioclim.github.io/bioclimat/images/claudio.png" alt="Descripción de la imagen" width="150">
 
 researchgate     : https://www.researchgate.net/lab/Laboratorio-de-Bioclimatologia-Octavio-R-Rojas-Soto
 
