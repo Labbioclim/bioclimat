@@ -1,5 +1,5 @@
 ---
-title: "Curso: Modelos de Nicho Ecológico y Distribuciones Geográficas de Especies"
+title: "Colombia: Modelos de Nicho Ecológico y Distribuciones Geográficas de Especies"
 collection: talks
 type: "Curso intensivo"
 permalink: /talks/nicho_medellin
