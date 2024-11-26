@@ -35,7 +35,9 @@ Investigadores principales
 
 Principales colaboradores
 ------
-* Juan L. Parra
-* Fabricio Villalobos Camacho
-* Javier Nori
-* Felipe A. Toro-Cardona
+* Juan L. Parra (Universidad de Antioquia, Colombia)
+* Fabricio Villalobos Camacho (INECOL)
+* Javier Nori (Universidad de Córdoba, Argentina)
+* Felipe A. Toro-Cardona (Universidad de Antioquia, Colombia)
+* David A. Prieto-Torres (Universidad Nacional Autónoma de México)
+* Luis Osorio (Universidad Nacional Autónoma de México)
