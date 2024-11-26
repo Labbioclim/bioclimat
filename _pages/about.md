@@ -30,7 +30,7 @@ Investigadores principales
 
 <div style="display: flex; align-items: center;">
   <img src="https://labbioclim.github.io/bioclimat/images/claudio.png" alt="Descripción de la imagen" width="150" style="margin-right: 10px;">
-  <p> Texto Claudio.</p>
+  <p>Mi interés se centra en el uso de modelos de nicho ecológico y sus implicaciones en Biogeografía, Taxonomía y Conservación. Como técnico estoy asociado a dos laboratorios, el de Bioclimatología del Dr. Octavio Rojas Soto en donde se desarrollan proyectos para entender los patrones de distribución geográfica y ecológica de diferentes especies de vertebrados; y el de Ecofisiología Vegetal del Dr. Oscar Briones Villareal en donde se desarrollan proyectos de fisiología ecológica de plantas vasculares.</p>
 </div>
 
 Principales colaboradores
