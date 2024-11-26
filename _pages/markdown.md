@@ -33,5 +33,11 @@ Claudio Mota-Vargas, Alondra Encarnación-Luévano, H. Mauricio Ortega-Andrade, 
 [Capítulo disponible](https://www.researchgate.net/publication/339181920_Una_breve_introduccion_a_los_modelos_de_nicho_ecologico)
 
 
-## Artículos de divulgación
+## Divulgación
+
+* ### 2023
+  * **Aves comunes del Santuario del Bosque de Niebla y Jardín Botánico Francisco Javier Clavijero**<br>
+Consejo Nacional de Humanidades, Ciencias y Tecnologías (CONAHCYT), Instituto de Ecología, A.C.<br>
+Octavio Rojas Soto, Claudio Mota Vargas, Fernando González-García, Robert Straub<br>
+[Disponible aqui](https://libros.inecol.mx/index.php/libros/catalog/view/580/771/4061)
 
