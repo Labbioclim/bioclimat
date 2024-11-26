@@ -8,11 +8,11 @@ redirect_from:
 ---
 ![](https://labbioclim.github.io/bioclimat/images/grupo.png)
 
-En nuestro grupo de investigación estudiamos las relaciones ecológicas de las especies a lo largo de su distribución. Además, a través del uso de nichos ecológicos y intentamos reconstruir la distribución de diferentes especies y grupos taxonómicos, como mamíferos, aves, reptiles, anfibios e insectos. 
+En nuestro grupo de investigación estudiamos las relaciones ecológicas de las especies con el clima a lo largo de su distribución. Además, a través del uso de modelos de nicho ecológico intentamos reconstruir la distribución de diferentes especies de diversos grupos taxonómicos, como mamíferos, aves, reptiles, anfibios, insectos y plantas. Por otro lado, utilizamos las relaciones ecológicas de las especies con sus ambientes para inferir posibles consecuencias en conservación para las especies. 
 
 Líneas de investigación
 ------
-* *Biogeografía y Bioclimatología*, buscando analizar las áreas de distribución de las especies, así como sus patrones geográficos, ecológicos y temporales como respuesta al dinamismo climático, mediante el uso de modelado de nichos ecológicos.
+* *Biogeografía y Bioclimatología*, buscando analizar las áreas de distribución de las especies a través del modelado de nichos ecológicos, con el objetivo de comprender sus patrones geográficos, ecológicos y temporales en respuesta a los cambios dinámicos del clima.
 * *Taxonomía alfa*, mediante la reinterpretación de los límites entre las especies y su efecto en el conocimiento de la biodiversidad.
 * *Conservación*, sumando los esfuerzos de las líneas anteriores aplicados a la conservación de la biodiversidad.
 
