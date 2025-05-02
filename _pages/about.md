@@ -26,7 +26,7 @@ Investigadores principales
 
 <div style="display: flex; align-items: center;">
   <img src="https://labbioclim.github.io/bioclimat/images/octavio.png" alt="Descripción de la imagen" width="150" style="margin-right: 10px;">
-  <p>Me interesa la biología evolutiva de los vertebrados y su relación con los patrones geográficos y ambientales de distribución de especies a diferentes escalas temporales y espaciales. Mis intereses también incluyen los nichos ecológicos, así como la modelización y conservación de la distribución de especies.</p>
+  <p>Me interesa el análisis de los patrones geográficos y ecológicos de diversos taxa a diferentes escalas temporales y espaciales; incluyendo aspectos teóricos y metodológicos de los modelos de nichos ecológicos, así como la identificación de unidades evolutivas y su conservación.</p>
 </div>
 
 
@@ -40,8 +40,15 @@ Investigadores principales
 Principales colaboradores
 ------
 * Juan L. Parra (Universidad de Antioquia, Colombia)
-* Fabricio Villalobos Camacho (INECOL)
+* Fabricio Villalobos Camacho (Instituto de Ecología, A. C.)
 * Javier Nori (Universidad de Córdoba, Argentina)
-* Felipe A. Toro-Cardona (Universidad de Antioquia, Colombia)
+* Enrique Martinez-Meyer (Universidad Nacional Autónoma de México)
+* Andrés Lira-Noriega (Instituto de Ecología, A. C.)
 * David A. Prieto-Torres (Universidad Nacional Autónoma de México)
-* Luis Osorio (Universidad Nacional Autónoma de México)
+* Luis Osorio-Olvera (Universidad Nacional Autónoma de México)
+* Fabiola López-Barrera (Instituto de Ecología, A. C.)
+* Carlos Yañez-Arenas (Universidad Nacional Autónoma de México)
+* Adolfo Navarro-Sigüenza (Universidad Nacional Autónoma de México)
+* Martha Bonilla-Moheno (Instituto de Ecología, A. C.)
+* Alejandro Espinoza de los Monteros (Instituto de Ecología, A. C.)
+* Roberto Carlos Almazan Nuñez (Universidad Autónoma de Guerrero)
