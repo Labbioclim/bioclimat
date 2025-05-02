@@ -8,13 +8,16 @@ redirect_from:
 ---
 ![](https://labbioclim.github.io/bioclimat/images/grupo.png)
 
-En nuestro grupo de investigación estudiamos las relaciones ecológicas de las especies con el clima a lo largo de su distribución. Además, a través del uso de modelos de nicho ecológico intentamos reconstruir la distribución de diferentes especies de diversos grupos taxonómicos, como mamíferos, aves, reptiles, anfibios, insectos y plantas. Por otro lado, utilizamos las relaciones ecológicas de las especies con sus ambientes para inferir posibles consecuencias en conservación para las especies. 
+Estudiamos los patrones de distribución geográfica y ecológica de las especies a diferentes escalas espaciales y temporales. A través del uso de modelos de nicho ecológico y de distribución de especies reconstruimos diversos aspectos relacionados con la ecología, biogeografía y evolución de múltiples grupos taxonómicos. Aunque nuestro interés se centra en el Neotrópico, abordamos preguntas que también incluyen otras regiones. A partir de esto, generamos información que puede contribuir a la conservación de las especies.
 
 Líneas de investigación
 ------
-* *Biogeografía y Bioclimatología*, buscando analizar las áreas de distribución de las especies a través del modelado de nichos ecológicos, con el objetivo de comprender sus patrones geográficos, ecológicos y temporales en respuesta a los cambios dinámicos del clima.
+### *Biogeografía y Bioclimatología*
+Buscando analizar las áreas de distribución de las especies a través del modelado de nichos ecológicos, con el objetivo de comprender sus patrones geográficos, ecológicos y temporales en respuesta a los cambios dinámicos del clima.
 * *Taxonomía alfa*, mediante la reinterpretación de los límites entre las especies y su efecto en el conocimiento de la biodiversidad.
 * *Conservación*, sumando los esfuerzos de las líneas anteriores aplicados a la conservación de la biodiversidad.
+* *Ecología evolutiva*, estudiando el efecto del ambiente sobre la evolución de sistemas biológicos.
+* *Modelado de nicho y distribución de especies*, haciendo aportes teóricos y metodológicos para el desarrollo de este campo.
 
 Investigadores principales
 ------
