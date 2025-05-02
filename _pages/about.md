@@ -13,11 +13,12 @@ Estudiamos los patrones de distribución geográfica y ecológica de las especie
 Líneas de investigación
 ------
 ### *Biogeografía y Bioclimatología*
-Buscando analizar las áreas de distribución de las especies a través del modelado de nichos ecológicos, con el objetivo de comprender sus patrones geográficos, ecológicos y temporales en respuesta a los cambios dinámicos del clima.
-* *Taxonomía alfa*, mediante la reinterpretación de los límites entre las especies y su efecto en el conocimiento de la biodiversidad.
-* *Conservación*, sumando los esfuerzos de las líneas anteriores aplicados a la conservación de la biodiversidad.
-* *Ecología evolutiva*, estudiando el efecto del ambiente sobre la evolución de sistemas biológicos.
-* *Modelado de nicho y distribución de especies*, haciendo aportes teóricos y metodológicos para el desarrollo de este campo.
+Analizamos las áreas de distribución y los nichos ecológicos de las especies, con el objetivo de comprender sus patrones geográficos, ecológicos y temporales en respuesta a los cambios dinámicos del clima.
+
+* *Taxonomía alfa*: mediante la reinterpretación de los límites entre las especies y su efecto en el conocimiento de la biodiversidad.
+* *Modelado de nicho y distribución de especies*: haciendo aportes teóricos y metodológicos para el desarrollo de este campo.
+* *Ecología evolutiva*: estudiando el efecto del ambiente sobre la evolución de sistemas biológicos.
+* *Conservación*: sumando los esfuerzos de las líneas anteriores aplicados a la conservación de la biodiversidad.
 
 Investigadores principales
 ------
