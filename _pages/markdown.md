@@ -20,6 +20,10 @@ Octavio Rojas-Soto, Juan S. Forero-Rodríguez, Alejandra Galindo-Cruz, Claudio M
 Mauricio Díaz-Vallejo, Alexander Peña-Peniche, Claudio Mota-Vargas, Javier Piña-Torres, Daniel Valencia-Rodríguez, Coral E. Rangel-Rivera, Juliana Gaviria-Hernández, Octavio Rojas-Soto<br>
 [https://doi.org/10.1016/j.ecolmodel.2024.110893](https://doi.org/10.1016/j.ecolmodel.2024.110893)
 
+  * **Juan da**<br>
+*Biological Journal of Linean society*<br>
+Authors<br>
+[https://doi.org/10.1016/j.ecolmodel.2024.110893](https://doi.org/10.1016/j.ecolmodel.2024.110893)
 
 * ### 2023
 
