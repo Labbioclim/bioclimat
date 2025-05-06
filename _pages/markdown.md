@@ -9,6 +9,38 @@ redirect_from:
 
 ## Publicaciones
 
+* ### 2025
+  * **The relationship between the terrain slope and biodiversity conservation: a perspective from the specialist avifauna of Mexico**<br>
+*Biological Conservation*<br>
+Mauricio Díaz-Vallejo, Felipe A. Toro-Cardona, Martha Bonilla-Moheno, Juan L. Parra, Octavio Rojas-Soto<br>
+[In press]()
+
+  * **Do ecological interactions promote the coevolution of ecological niches in the acacias (Fabaceae: *Vachellia* spp.) and their mutualistic ants (Formicidae: *Pseudomyrmex ferrugineus* group)?** <br>
+*Biological Journal of Linnean Society*<br>
+Juan David Sánchez-Rodríguez, Citali Edith Esparza-Estrada, Alejandro Espinosa de los Monteros A., Luis Osorio-Olvera, Octavio Rojas-Soto<br>
+[In press]()
+
+  * **Comparing Methods for Estimating Geographic Ranges in Freshwater Fishes: Several Mirrors of the Same Reality**<br>
+*Freshwater Biology*<br>
+Daniel Valencia-Rodríguez, Fabricio Villalobos, Pablo A. Tedesco, Norman Mercado-Silva, Miguel Rubio-Godoy, Octavio Rojas-Soto<br>
+[https://doi.org/10.1111/fwb.70014](https://doi.org/10.1111/fwb.70014)
+
+  * **Climate Change threatens Pupping Sites of the Critically Endangered Mustelus schmitti: Insights from Ecological Niche Models for Ocean Conservation**<br>
+*Estuarine, Coastal and Shelf Science*<br>
+Pablo E. Santana, Javier Nori, Octavio Rojas-Soto, Federico Cortés, Jorge H. Colonello, Mariano Elisio<br>
+[https://doi.org/10.1016/j.ecss.2025.109132](https://doi.org/10.1016/j.ecss.2025.109132)
+
+  * **Broad geographic dispersal is not a diversification driver for Emberizoidea**<br>
+*Estuarine, Coastal and Shelf Science*<br>
+Pablo E. Santana, Javier Nori, Octavio Rojas-Soto, Federico Cortés, Jorge H. Colonello, Mariano Elisio<br>
+[https://doi.org/10.1098/rspb.2024.1965](https://doi.org/10.1098/rspb.2024.1965)
+
+  * **Chorotypes, zones for the conservation of Scarabaeoidea, and representativity in protected areas of El Salvador**<br>
+*Insect Conservation and Diversity*<br>
+José D. Pablo-Cea, Andrés Ramírez-Ponce, Claudia E. Moreno, Ronald D. Cave, Victor Moctezuma, Octavio Rojas-Soto<br>
+[https://doi.org/10.1111/icad.12807](https://doi.org/10.1111/icad.12807)
+
+
 * ### 2024
   * **Calibration areas in ecological niche and species distribution modelling: Unravelling approaches and concepts**<br>
 _Journal of Biogeography_<br>
@@ -20,10 +52,6 @@ Octavio Rojas-Soto, Juan S. Forero-Rodríguez, Alejandra Galindo-Cruz, Claudio M
 Mauricio Díaz-Vallejo, Alexander Peña-Peniche, Claudio Mota-Vargas, Javier Piña-Torres, Daniel Valencia-Rodríguez, Coral E. Rangel-Rivera, Juliana Gaviria-Hernández, Octavio Rojas-Soto<br>
 [https://doi.org/10.1016/j.ecolmodel.2024.110893](https://doi.org/10.1016/j.ecolmodel.2024.110893)
 
-  * **Juan da**<br>
-*Biological Journal of Linean society*<br>
-Authors<br>
-[https://doi.org/10.1016/j.ecolmodel.2024.110893](https://doi.org/10.1016/j.ecolmodel.2024.110893)
 
 * ### 2023
 
