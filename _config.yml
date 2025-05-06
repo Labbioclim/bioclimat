@@ -88,8 +88,10 @@ portfolio_category:
     title: 'Maestría'
   phd:
     title: 'Doctorado'
-  gstud:
-    title: 'Estudiantes graduados'
+  gstud_phd:
+    title: 'Estudiantes graduados (Doctorado)'
+  gstud_msc:
+    title: 'Estudiantes graduados (Maestría)'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
