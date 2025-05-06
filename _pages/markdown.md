@@ -17,7 +17,7 @@ Mauricio Díaz-Vallejo, Felipe A. Toro-Cardona, Martha Bonilla-Moheno, Juan L. P
 
   * **Do ecological interactions promote the coevolution of ecological niches in the acacias (Fabaceae: *Vachellia* spp.) and their mutualistic ants (Formicidae: *Pseudomyrmex ferrugineus* group)?** <br>
 *Biological Journal of Linnean Society*<br>
-Juan David Sánchez-Rodríguez, Citali Edith Esparza-Estrada, Alejandro Espinosa de los Monteros A., Luis Osorio-Olvera, Octavio Rojas-Soto<br>
+Juan David Sánchez-Rodríguez, Citalli Edith Esparza-Estrada, Alejandro Espinosa de los Monteros A., Luis Osorio-Olvera, Octavio Rojas-Soto<br>
 [In press]()
 
   * **Comparing Methods for Estimating Geographic Ranges in Freshwater Fishes: Several Mirrors of the Same Reality**<br>
@@ -31,7 +31,7 @@ Pablo E. Santana, Javier Nori, Octavio Rojas-Soto, Federico Cortés, Jorge H. Co
 [https://doi.org/10.1016/j.ecss.2025.109132](https://doi.org/10.1016/j.ecss.2025.109132)
 
   * **Broad geographic dispersal is not a diversification driver for Emberizoidea**<br>
-*Estuarine, Coastal and Shelf Science*<br>
+*Proceedings of the Royal Society B*<br>
 Pablo E. Santana, Javier Nori, Octavio Rojas-Soto, Federico Cortés, Jorge H. Colonello, Mariano Elisio<br>
 [https://doi.org/10.1098/rspb.2024.1965](https://doi.org/10.1098/rspb.2024.1965)
 
@@ -97,20 +97,68 @@ Claudio Mota-Vargas, John McCormack, Octavio Rojas-Soto<br>
 [https://doi.org/10.1676/22-00041](https://doi.org/10.1676/22-00041)
 
   * **Calibration areas in ecological niche and species distribution modelling: Unravelling approaches and concepts**<br>
-_Journal of Biogeography_<br>
+*Journal of Biogeography*<br>
 Octavio Rojas-Soto, Juan S. Forero-Rodríguez, Alejandra Galindo-Cruz, Claudio Mota-Vargas, Keisy D. Parra-Henao, Alexander Peña-Peniche, Javier Piña-Torres, Karen Rojas-Herrera, Juan D. Sánchez-Rodríguez, Felipe A. Toro-Cardona, Carlos D. Trinidad-Domínguez<br>
 [https://doi.org/10.1111/jbi.14834](https://doi.org/10.1111/jbi.14834)
 
 * ### 2023
 
+  * **At home in the tropics: seasonal niche-tracking by the Yellow-green Vireo, *Vireo flavoviridis*, an intratropical migrant**<br>
+*Revista Mexicana de Biodiversidad*<br>
+Alejandra Ochoa-González, Octavio R. Rojas-Soto, David A. Prieto-Torres, María del Coro Arizmendi, Adolfo G. Navarro-Sigüenza <br>
+[https://doi.org/10.22201/ib.20078706e.2023.94.5233](https://doi.org/10.22201/ib.20078706e.2023.94.5233)
+
+  * **Seasonal distribution analysis of five lasiurine bat species: clues to migration patterns and behavior**<br>
+*Mammalia*<br>
+Karen Rojas-Herrera, Fabricio Villalobos, Antonio Guillén-Servent, Sergio Solari, Octavio Rojas-Soto <br>
+[https://doi.org/10.1515/mammalia-2022-0129](https://doi.org/10.1515/mammalia-2022-0129)
+
+  * **Vipers on the Scene: Assessing the Relationship Between Speciation and Climatic Niche Evolution in Venomous Snakes (Reptilia: Viperidae)** <br>
+*Evolutionary Biology*<br>
+Citlalli Edith Esparza-Estrada, Laura R.V. Alencar, Levi Carina Terribile, Octavio Rojas-Soto, Carlos Yáñez-Arenas & Fabricio Villalobos <br>
+[https://doi.org/10.1007/s11692-023-09604-5](https://doi.org/10.1007/s11692-023-09604-5)
+
+  * **The effect of topographic complexity on species range size estimation and its conservation implications: a subtle oversight** <br>
+*Biodiversity and Conservation*<br>
+Alejandra Galindo-Cruz, Octavio Rojas-Soto <br>
+[https://doi.org/10.1007/s10531-023-02580-4](https://doi.org/10.1007/s10531-023-02580-4)
+
+  * **Predicting daily activity time through ecological niche modelling and microclimatic data** <br>
+*Journal of Animal Ecology*<br>
+Felipe A. Toro-Cardona, Juan L. Parra, Octavio R. Rojas-Soto <br>
+[https://doi.org/10.1111/1365-2656.13895](https://doi.org/10.1111/1365-2656.13895)
+
+  * **An exhaustive evaluation of modeling ecological niches above species level to predict marine biological invasions** <br>
+*Marine Environmental Research*<br>
+Kevin López-Reyes, Luis Osorio-Olvera, Octavio Rojas-Soto, Xavier Chiappa-Carrara, Carlos Patrón-Rivero, Carlos Yáñez-Arenas <br>
+[https://doi.org/10.1016/j.marenvres.2023.105926](https://doi.org/10.1016/j.marenvres.2023.105926)
+
+  * **Contrasting biogeographical patterns of threatened vertebrates on islands emerge from disparities between expert-derived maps and Global Biodiversity Information Facility data** <br>
+*Journal of Biogeography*<br>
+Javier Nori, David A. Prieto-Torres, Fabricio Villalobos, Rafael Loyola, Octavio Rojas-Soto, Juan L. Parra, Andrés Lira-Noriega, H. Mauricio Ortega-Andrade, Adrián Monjeau, Sebastián Hernández-De La Fuente, Enrique Martínez-Meyer, Luis Osorio-Olvera <br>
+[https://doi.org/10.1111/jbi.14545](https://doi.org/10.1111/jbi.14545)
 
 ## Capitulos de libro
 * ### 2024
   * **Avian Disease Ecology in the Neotropics**<br>
 en *Ecology of Wildlife Diseases in the Neotropics, Capitulo: 5*<br>
 Publisher: Springer<br>
-Paulina Álvarez-Mendizábal, María José Tolsa, Octavio Rojas-Soto, Ian MacGregor-Fors & Diego Santiago-Alarcon <br>
+Paulina Álvarez-Mendizábal, María José Tolsa, Octavio Rojas-Soto, Ian MacGregor-Fors, Diego Santiago-Alarcon <br>
 [https://doi.org/10.1007/978-3-031-50531-7_5](https://doi.org/10.1007/978-3-031-50531-7_5)
+
+* ### 2023
+  * **Mexican Avifauna of the Anthropocene**<br>
+en *Mexican Fauna in the Anthropocene, Capitulo: 8*<br>
+Publisher: Springer<br>
+David A. Prieto-Torres, Leopoldo D. Vázquez-Reyes, Lynna Marie Kiere, Luis A. Sánchez-González, Rubén Pineda-López, María del Coro Arizmendi, Alejandro Gordillo-Martínez, R. Carlos Almazán-Núñez, Octavio R. Rojas-Soto, Patricia Ramírez-Bastida, A. Townsend Peterson, Adolfo G. Navarro-Sigüenza <br>
+[https://doi.org/10.1007/978-3-031-50531-7_5](https://doi.org/10.1007/978-3-031-50531-7_5)
+
+* ### 2020
+  * **Ecological Niche Modeling and Other Tools for the Study of Avian Malaria Distribution in the Neotropics: A Short Literature Review**<br>
+en *Avian Malaria and Related Parasites in the Tropics, Capitulo: 7*<br>
+Publisher: Springer<br>
+David A. Prieto-Torres, Octavio R. Rojas-Soto, Andrés Lira-Noriega <br>
+[https://doi.org/10.1007/978-3-030-51633-8_7](https://doi.org/10.1007/978-3-030-51633-8_7)
 
 * ### 2019
   * **Una breve introducción a los modelos de nicho ecológico**<br>
