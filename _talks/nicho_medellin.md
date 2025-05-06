@@ -4,7 +4,7 @@ collection: talks
 type: "Curso intensivo"
 permalink: /talks/nicho_medellin
 venue: " Presencial"
-date: segundo semestre 2025
+date: 2025-11-01
 location: "Universidad de Antioquia, Medellín, Colombia"
 ---
 
