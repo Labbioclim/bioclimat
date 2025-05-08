@@ -4,8 +4,8 @@ collection: portfolio
 category: gstud_phd
 link: ""
 permalink: ""
-excerpt: "<a href="https://www.researchgate.net/profile/H-Mauricio-Ortega-Andrade" target="_blank">H. Mauricio Ortega-Andrade</a><br>
-H. Mauricio Ortega-Andrade<br>
+excerpt: "
+[H. Mauricio Ortega-Andrade](https://www.researchgate.net/profile/H-Mauricio-Ortega-Andrade)
 Dr. David A. Prieto Torres<br>
 Dr. Alexander Peña-Peniche<br>
 Dra. Alejandra Galindo-Cruz<br>
