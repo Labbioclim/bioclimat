@@ -32,7 +32,7 @@ Pablo E. Santana, Javier Nori, Octavio Rojas-Soto, Federico Cortés, Jorge H. Co
 
   * **Broad geographic dispersal is not a diversification driver for Emberizoidea**<br>
 *Proceedings of the Royal Society B*<br>
-Pablo E. Santana, Javier Nori, Octavio Rojas-Soto, Federico Cortés, Jorge H. Colonello, Mariano Elisio<br>
+Axel Arango, Jesús Pinto-Ledezma, Octavio Rojas-Soto, Fabricio Villalobos<br>
 [https://doi.org/10.1098/rspb.2024.1965](https://doi.org/10.1098/rspb.2024.1965)
 
   * **Chorotypes, zones for the conservation of Scarabaeoidea, and representativity in protected areas of El Salvador**<br>
