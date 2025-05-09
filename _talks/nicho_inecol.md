@@ -12,4 +12,5 @@ A través de este curso se espera que los alumnos aprendan la teoría básica de
 
 El curso tiene como objetivos el entender los diversos fundamentos teóricos sobre los cuales descansa el modelado de nichos ecológicos y los Modelos de Distribución de Especies (MDE), tales como las unidades a modelar, los conceptos de nicho ecológicos y las distribuciones geográficas, así como aspectos importantes, como las unidades de modelado, los conceptos de nicho y de área de distribución, las necesidades y características de los datos biológicos y las coberturas ambientales, el modelo BAM, las implicaciones de las transferencias climáticas, las validaciones estadísticas entre otras. Además otro objetivo es abordar los principios y manejo de algunos algoritmos comunes, como Maxent, etc., para que el alumno pueda aplicar esta herramienta en la solución de preguntas y problemas biológicos.
 
-[Mayores informes](https://www.inecol.mx/index.php/ciencia/cursos)
+Mayores informes: octavio.rojas@inecol.mx
+[Listado de cursos inecol](https://www.inecol.mx/index.php/ciencia/cursos)
