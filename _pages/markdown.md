@@ -9,16 +9,48 @@ redirect_from:
 
 ## Publicaciones
 
+* ### 2026
+  * **Will seed dispersers keep pace? Vulnerability of seed‐dispersing mammals to climate change in the Mesoamerican seasonally dry forest**<br>
+*Regional Envirnomental Change*<br>
+Coral E. Rangel‐Rivera, Octavio R. Rojas‐Soto, Roger Guevara, Fabiola López‐Barrera, Andrés Arias‐Alzate, David A. Prieto‐Torres<br>
+*In press*
+
+  * **Integration and modular patterns shaping the morphological evolution in Neotropical hognose pitvipers *Porthidium***<br>
+*Current zoology*<br>
+Carlos Patron-Rivero, Carlos Yañez-Arenas, Xavier Chiappa-Carrara, Octavio Rojas-Soto, Sara Ruane<br>
+[https://doi.org/10.1093/cz/zoag016](https://doi.org/10.1093/cz/zoag016)
+
+  * **A comprehensive morphological database of hognose *Porthidium pitvipers* (Viperidae: Crotalinae)**<br>
+*Database*<br>
+Carlos Patron-Rivero, Carlos Yañez-Arenas, Sara Ruane, Xavier Chiappa-Carrara, Octavio Rojas-Soto<br>
+[https://doi.org/10.1093/database/baaf085](https://doi.org/10.1093/database/baaf085)
+
 * ### 2025
+
+  * **Geographical and seasonal distribution of the Short-crested Coquette hummingbird: a microendemic and endangered species**<br>
+*PeerJ*<br>
+Diana M. Girón-Juárez, Rusby G. Contreras-Díaz, Rodrigo A. Medellín, Octavio Rojas-Soto, Sergio Díaz-Martínez, Javier Nori, Gerardo Martín, Luis Osorio-Olvera<br>
+[https://doi.org/10.7717/peerj.20312](https://doi.org/10.7717/peerj.20312)
+
+  * **Beyond climate: Anthropogenic pressures reshape vampire bat distributions across the neotropics**<br>
+*Biological Conservation*<br>
+Diana M. Girón-Juárez, Rusby G. Contreras-Díaz, Rodrigo A. Medellín, Octavio Rojas-Soto, Sergio Díaz-Martínez, Javier Nori, Gerardo Martín, Luis Osorio-Olvera<br>
+[https://doi.org/10.1016/j.biocon.2025.111443](https://doi.org/10.1016/j.biocon.2025.111443)
+
+  * **Ecological and biogeographic drivers of speciation in neotropical hognose pit vipers, *Porthidium* (Squamata, Viperidae)**<br>
+*Zoologischer Anzeiger*<br>
+Carlos Patron-Rivero, Carlos Yañez-Arenas, Xavier Chiappa-Carrara, Octavio Rojas-Soto, Sara Ruane, Lázaro Guevara<br>
+[https://doi.org/10.1016/j.jcz.2025.07.007](https://doi.org/10.1016/j.jcz.2025.07.007)
+
   * **The relationship between the terrain slope and biodiversity conservation: a perspective from the specialist avifauna of Mexico**<br>
 *Biological Conservation*<br>
 Mauricio Díaz-Vallejo, Felipe A. Toro-Cardona, Martha Bonilla-Moheno, Juan L. Parra, Octavio Rojas-Soto<br>
-[In press]()
+[https://doi.org/10.1016/j.biocon.2025.111219](https://doi.org/10.1016/j.biocon.2025.111219)
 
   * **Do ecological interactions promote the coevolution of ecological niches in the acacias (Fabaceae: *Vachellia* spp.) and their mutualistic ants (Formicidae: *Pseudomyrmex ferrugineus* group)?** <br>
 *Biological Journal of Linnean Society*<br>
 Juan David Sánchez-Rodríguez, Citalli Edith Esparza-Estrada, Alejandro Espinosa de los Monteros A., Luis Osorio-Olvera, Octavio Rojas-Soto<br>
-[In press]()
+[https://doi.org/10.1093/biolinnean/blaf030](https://doi.org/10.1093/biolinnean/blaf030)
 
   * **Comparing Methods for Estimating Geographic Ranges in Freshwater Fishes: Several Mirrors of the Same Reality**<br>
 *Freshwater Biology*<br>
@@ -138,24 +170,31 @@ Kevin López-Reyes, Luis Osorio-Olvera, Octavio Rojas-Soto, Xavier Chiappa-Carra
 Javier Nori, David A. Prieto-Torres, Fabricio Villalobos, Rafael Loyola, Octavio Rojas-Soto, Juan L. Parra, Andrés Lira-Noriega, H. Mauricio Ortega-Andrade, Adrián Monjeau, Sebastián Hernández-De La Fuente, Enrique Martínez-Meyer, Luis Osorio-Olvera <br>
 [https://doi.org/10.1111/jbi.14545](https://doi.org/10.1111/jbi.14545)
 
-## Capitulos de libro
+## Capítulos de libro
+* ### 2025
+  * **Bird Conservation in the Neotropics: Gaps and Challenges in the Face of Anthropocene Threats**<br>
+en *New Perspectives in Ornithology: 21st Century Dispatches across the World of Birds, Capítulo: 23*<br>
+Publisher: Oxford University Press<br>
+David A. Prieto-Torres, Luis A. Sánchez-González, Octavio R. Rojas-Soto, María del Coro Arizmendi, Adolfo G. Navarro-Sigüenza <br>
+[https://doi.org/10.1093/oso/9780197787670.003.0023](https://doi.org/10.1093/oso/9780197787670.003.0023)
+
 * ### 2024
   * **Avian Disease Ecology in the Neotropics**<br>
-en *Ecology of Wildlife Diseases in the Neotropics, Capitulo: 5*<br>
+en *Ecology of Wildlife Diseases in the Neotropics, Capítulo: 5*<br>
 Publisher: Springer<br>
 Paulina Álvarez-Mendizábal, María José Tolsa, Octavio Rojas-Soto, Ian MacGregor-Fors, Diego Santiago-Alarcon <br>
 [https://doi.org/10.1007/978-3-031-50531-7_5](https://doi.org/10.1007/978-3-031-50531-7_5)
 
 * ### 2023
   * **Mexican Avifauna of the Anthropocene**<br>
-en *Mexican Fauna in the Anthropocene, Capitulo: 8*<br>
+en *Mexican Fauna in the Anthropocene, Capítulo: 8*<br>
 Publisher: Springer<br>
 David A. Prieto-Torres, Leopoldo D. Vázquez-Reyes, Lynna Marie Kiere, Luis A. Sánchez-González, Rubén Pineda-López, María del Coro Arizmendi, Alejandro Gordillo-Martínez, R. Carlos Almazán-Núñez, Octavio R. Rojas-Soto, Patricia Ramírez-Bastida, A. Townsend Peterson, Adolfo G. Navarro-Sigüenza <br>
 [https://doi.org/10.1007/978-3-031-50531-7_5](https://doi.org/10.1007/978-3-031-50531-7_5)
 
 * ### 2020
   * **Ecological Niche Modeling and Other Tools for the Study of Avian Malaria Distribution in the Neotropics: A Short Literature Review**<br>
-en *Avian Malaria and Related Parasites in the Tropics, Capitulo: 7*<br>
+en *Avian Malaria and Related Parasites in the Tropics, Capítulo: 7*<br>
 Publisher: Springer<br>
 David A. Prieto-Torres, Octavio R. Rojas-Soto, Andrés Lira-Noriega <br>
 [https://doi.org/10.1007/978-3-030-51633-8_7](https://doi.org/10.1007/978-3-030-51633-8_7)
