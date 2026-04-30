@@ -358,3 +358,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Table Of Contents
+toc:
+  min_level: 1
+  max_level: 4
