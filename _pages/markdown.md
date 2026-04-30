@@ -212,7 +212,7 @@ Publisher: Universidad Autónoma del Estado de Hidalgo/Libermex<br>
 
 
 ## Divulgación / Divulgation
-* ### 2025
+* ### 2024
   * **Mi primer modelo sobre dónde viven las especies. Una experiencia divulgativa**<br>
 Eco-lógico. Revista de divulgación científica INECOL<br>
 **Claudio Mota Vargas, Mauricio Díaz-Vallejo, Alejandra Galindo-Cruz, Juan David Sánchez-Rodríguez, Coral E. Rangel-Rivera, Daniel Valencia Rodríguez, Alejandro Rodríguez Villa, Octavio Rojas Soto** <br>
