@@ -10,6 +10,7 @@ redirect_from:
 
 Somos un laboratorio perteneciente a la [Red de Biología evolutiva](https://www.inecol.mx/index.php/ciencia/redes-academicas/red-de-biologia-evolutiva), del [Instituto de Ecología A.C. - INECOL](https://www.inecol.mx/) en México. Estudiamos los patrones de distribución geográfica y ecológica de las especies a diferentes escalas espaciales y temporales. A través del uso de modelos de nicho ecológico y de distribución de especies reconstruimos diversos aspectos relacionados con la ecología, biogeografía y evolución de múltiples grupos taxonómicos. Aunque nuestro interés se centra en el Neotrópico, abordamos preguntas que también incluyen otras regiones. A partir de esto, generamos información que puede contribuir a la conservación de las especies.
 
+*English*
 We are a laboratory affiliated with the [Evolutionary Biology Network](https://www.inecol.mx/index.php/ciencia/redes-academicas/red-de-biologia-evolutiva) of the [Instituto de Ecología A.C. (INECOL)](https://www.inecol.mx/) in Mexico. We study the geographic and ecological distribution patterns of species across various spatial and temporal scales using Ecological Niche Models and Species Distribution Models. Our focus is on reconstructing multiple aspects of the ecology, biogeography, and evolution of various taxonomic groups, including birds, mammals, reptiles, amphibians, fish, and insects. Based on our research, we aim to generate information that can contribute to the conservation of these species.
 
 Líneas de investigación / Research fields
@@ -22,6 +23,7 @@ Analizamos las áreas de distribución y los nichos ecológicos de las especies,
 * *Ecología evolutiva*: estudiando el efecto del ambiente sobre la evolución de sistemas biológicos.
 * *Conservación*: sumando los esfuerzos de las líneas anteriores aplicados a la conservación de la biodiversidad.
 
+*English*
 We aim of understanding the species’ ranges and ecological niches regarding its geographic, ecological, and temporal patterns in response to dynamic climate changes. 
 
 * *Alpha taxonomy*: We analizing species boundaries and their impact on our understanding of biodiversity.
@@ -37,6 +39,7 @@ Investigadores principales / Principal researchers
   <img src="https://labbioclim.github.io/bioclimat/images/octavio.png" alt="Descripción de la imagen" width="150" style="margin-right: 10px;">
   <p>Me interesa el análisis de los patrones geográficos y ecológicos de diversos taxa a diferentes escalas temporales y espaciales; incluyendo aspectos teóricos y metodológicos de los modelos de nichos ecológicos, así como la identificación de unidades evolutivas y su conservación. 
     
+  *English*
   I am interested in analyzing the geographic and ecological patterns of various taxa across different temporal and spatial scales. This includes exploring the theoretical and methodological aspects of Ecological Niche Models, as well as identifying evolutionary units and their conservation needs.</p>
 </div>
 
@@ -46,7 +49,8 @@ Investigadores principales / Principal researchers
 <div style="display: flex; align-items: center;">
   <img src="https://labbioclim.github.io/bioclimat/images/claudio.png" alt="Descripción de la imagen" width="150" style="margin-right: 10px;">
   <p>Mi interés se centra en el uso de modelos de nicho ecológico y sus implicaciones en Biogeografía, Taxonomía y Conservación. Como técnico estoy asociado a dos laboratorios, el de Bioclimatología del Dr. Octavio Rojas Soto en donde se desarrollan proyectos para entender los patrones de distribución geográfica y ecológica de diferentes especies de vertebrados; y el de Ecofisiología Vegetal del Dr. Oscar Briones Villareal en donde se desarrollan proyectos de fisiología ecológica de plantas vasculares.
-  
+    
+  *English*
   My research focuses on the use of Ecological Niche Models and their implications for biogeography, taxonomy, and conservation. As a research assistant, I am affiliated with two laboratories: Dr. Octavio Rojas Soto’s Bioclimatology Laboratory, which conducts projects aimed at understanding the geographic and ecological distribution patterns of various vertebrate species, and Dr. Oscar Briones Villareal’s Plant Ecophysiology Laboratory, where research is carried out on the ecological physiology of vascular plants.</p>
 </div>
 
