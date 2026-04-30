@@ -36,11 +36,21 @@ Investigadores principales / Principal researchers
 [**Octavio Rojas-Soto**](https://www.researchgate.net/profile/Octavio-Rojas-Soto)
 
 <div style="display: flex; align-items: center;">
-  <img src="https://labbioclim.github.io/bioclimat/images/octavio.png" alt="Descripción de la imagen" width="150" style="margin-right: 10px;">
-  <p>Me interesa el análisis de los patrones geográficos y ecológicos de diversos taxa a diferentes escalas temporales y espaciales; incluyendo aspectos teóricos y metodológicos de los modelos de nichos ecológicos, así como la identificación de unidades evolutivas y su conservación. 
+  <img src="https://labbioclim.github.io/bioclimat/images/octavio.png" alt="Octavio" width="150" style="margin-right: 20px; border-radius: 8px;">
+  
+  <div>
+    <p style="margin-bottom: 10px;">
+      Me interesa el análisis de los patrones geográficos y ecológicos de diversos taxa a diferentes escalas temporales y espaciales; incluyendo aspectos teóricos y metodológicos de los modelos de nichos ecológicos, así como la identificación de unidades evolutivas y su conservación.
+    </p>
     
-  *English*<br>
-  I am interested in analyzing the geographic and ecological patterns of various taxa across different temporal and spatial scales. This includes exploring the theoretical and methodological aspects of Ecological Niche Models, as well as identifying evolutionary units and their conservation needs.</p>
+    <span style="display: block; font-style: italic; font-weight: bold; margin-bottom: 5px; color: #555;">
+      English
+    </span>
+    
+    <p style="margin-top: 0;">
+      I am interested in analyzing the geographic and ecological patterns of various taxa across different temporal and spatial scales. This includes exploring the theoretical and methodological aspects of Ecological Niche Models, as well as identifying evolutionary units and their conservation needs.
+    </p>
+  </div>
 </div>
 
 
@@ -50,7 +60,7 @@ Investigadores principales / Principal researchers
   <img src="https://labbioclim.github.io/bioclimat/images/claudio.png" alt="Descripción de la imagen" width="150" style="margin-right: 10px;">
   <p>Mi interés se centra en el uso de modelos de nicho ecológico y sus implicaciones en Biogeografía, Taxonomía y Conservación. Como técnico estoy asociado a dos laboratorios, el de Bioclimatología del Dr. Octavio Rojas Soto en donde se desarrollan proyectos para entender los patrones de distribución geográfica y ecológica de diferentes especies de vertebrados; y el de Ecofisiología Vegetal del Dr. Oscar Briones Villareal en donde se desarrollan proyectos de fisiología ecológica de plantas vasculares.
     
-  *English*<br>
+  *English* <br>
   My research focuses on the use of Ecological Niche Models and their implications for biogeography, taxonomy, and conservation. As a research assistant, I am affiliated with two laboratories: Dr. Octavio Rojas Soto’s Bioclimatology Laboratory, which conducts projects aimed at understanding the geographic and ecological distribution patterns of various vertebrate species, and Dr. Oscar Briones Villareal’s Plant Ecophysiology Laboratory, where research is carried out on the ecological physiology of vascular plants.</p>
 </div>
 
