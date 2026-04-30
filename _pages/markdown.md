@@ -2,6 +2,7 @@
 permalink: /markdown/
 title: "Publicaciones / Publications"
 author_profile: true
+layout: archive
 toc: true
 toc_label: "Contenido"
 toc_icon: "cog"
@@ -11,7 +12,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Publicaciones / Publications
+## Publicaciones / Publicationss
 
 * ### 2026
   * **Will seed dispersers keep pace? Vulnerability of seed‐dispersing mammals to climate change in the Mesoamerican seasonally dry forest**<br>
