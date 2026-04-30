@@ -2,13 +2,13 @@
 permalink: /markdown/
 title: "Publicaciones / Publications"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 toc: true
 toc_label: "Contenido"
 toc_icon: "cog"
 toc_sticky: true
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
 
 ## Publicaciones / Publications
