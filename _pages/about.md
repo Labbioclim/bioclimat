@@ -10,7 +10,7 @@ redirect_from:
 
 Somos un laboratorio perteneciente a la [Red de Biología evolutiva](https://www.inecol.mx/index.php/ciencia/redes-academicas/red-de-biologia-evolutiva), del [Instituto de Ecología A.C. - INECOL](https://www.inecol.mx/) en México. Estudiamos los patrones de distribución geográfica y ecológica de las especies a diferentes escalas espaciales y temporales. A través del uso de modelos de nicho ecológico y de distribución de especies reconstruimos diversos aspectos relacionados con la ecología, biogeografía y evolución de múltiples grupos taxonómicos. Aunque nuestro interés se centra en el Neotrópico, abordamos preguntas que también incluyen otras regiones. A partir de esto, generamos información que puede contribuir a la conservación de las especies.
 
-*English*
+*English*<br>
 We are a laboratory affiliated with the [Evolutionary Biology Network](https://www.inecol.mx/index.php/ciencia/redes-academicas/red-de-biologia-evolutiva) of the [Instituto de Ecología A.C. (INECOL)](https://www.inecol.mx/) in Mexico. We study the geographic and ecological distribution patterns of species across various spatial and temporal scales using Ecological Niche Models and Species Distribution Models. Our focus is on reconstructing multiple aspects of the ecology, biogeography, and evolution of various taxonomic groups, including birds, mammals, reptiles, amphibians, fish, and insects. Based on our research, we aim to generate information that can contribute to the conservation of these species.
 
 Líneas de investigación / Research fields
@@ -23,7 +23,7 @@ Analizamos las áreas de distribución y los nichos ecológicos de las especies,
 * *Ecología evolutiva*: estudiando el efecto del ambiente sobre la evolución de sistemas biológicos.
 * *Conservación*: sumando los esfuerzos de las líneas anteriores aplicados a la conservación de la biodiversidad.
 
-*English*
+*English*<br>
 We aim of understanding the species’ ranges and ecological niches regarding its geographic, ecological, and temporal patterns in response to dynamic climate changes. 
 
 * *Alpha taxonomy*: We analizing species boundaries and their impact on our understanding of biodiversity.
