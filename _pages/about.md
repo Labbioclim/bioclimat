@@ -57,7 +57,7 @@ Investigadores principales / Principal researchers
 [**Claudio Mota-Vargas**](https://www.researchgate.net/profile/Claudio-Mota-Vargas)
 
 <div style="display: flex; align-items: center;">
-  <img src="https://labbioclim.github.io/bioclimat/images/octavio.png" alt="Octavio" width="150" style="margin-right: 20px; border-radius: 8px;">
+  <img src="https://labbioclim.github.io/bioclimat/images/claudio.png" alt="Claudio" width="150" style="margin-right: 20px; border-radius: 8px;">
   
   <div>
     <p style="margin-bottom: 10px;">
