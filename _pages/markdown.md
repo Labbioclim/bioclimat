@@ -2,7 +2,7 @@
 permalink: /markdown/
 title: "Publicaciones / Publications"
 author_profile: true
-layout: single
+layout: forty
 toc: true
 toc_label: "Contenido"
 toc_icon: "cog"
