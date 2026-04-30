@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Acerca de nosotros"
+title: "Acerca de nosotros / About us"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,9 +10,11 @@ redirect_from:
 
 Estudiamos los patrones de distribución geográfica y ecológica de las especies a diferentes escalas espaciales y temporales. A través del uso de modelos de nicho ecológico y de distribución de especies reconstruimos diversos aspectos relacionados con la ecología, biogeografía y evolución de múltiples grupos taxonómicos. Aunque nuestro interés se centra en el Neotrópico, abordamos preguntas que también incluyen otras regiones. A partir de esto, generamos información que puede contribuir a la conservación de las especies.
 
+We study the geographic and ecological distribution patterns of species across various spatial and temporal scales using Ecological Niche Models and Species Distribution Models. Our focus is on reconstructing multiple aspects of the ecology, biogeography, and evolution of various taxonomic groups, including birds, mammals, reptiles, amphibians, fish, and insects. Based on our research, we aim to generate information that can contribute to the conservation of these species.
+
 Líneas de investigación
 ------
-### *Biogeografía y Bioclimatología*
+### *Biogeografía y Bioclimatología / Biogeography and Bioclimatology*
 Analizamos las áreas de distribución y los nichos ecológicos de las especies, con el objetivo de comprender sus patrones geográficos, ecológicos y temporales en respuesta a los cambios dinámicos del clima.
 
 * *Taxonomía alfa*: mediante la reinterpretación de los límites entre las especies y su efecto en el conocimiento de la biodiversidad.
