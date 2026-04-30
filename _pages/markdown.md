@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Publicaciones"
+title: "Publicaciones / Publications"
 author_profile: true
 redirect_from: 
   - /md/
@@ -11,7 +11,7 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
-## Publicaciones
+## Publicaciones / Publications
 
 * ### 2026
   * **Will seed dispersers keep pace? Vulnerability of seed‐dispersing mammals to climate change in the Mesoamerican seasonally dry forest**<br>
@@ -174,7 +174,7 @@ Kevin López-Reyes, Luis Osorio-Olvera, **Octavio Rojas-Soto**, Xavier Chiappa-C
 Javier Nori, David A. Prieto-Torres, Fabricio Villalobos, Rafael Loyola, **Octavio Rojas-Soto**, Juan L. Parra, Andrés Lira-Noriega, H. Mauricio Ortega-Andrade, Adrián Monjeau, Sebastián Hernández-De La Fuente, Enrique Martínez-Meyer, Luis Osorio-Olvera <br>
 [https://doi.org/10.1111/jbi.14545](https://doi.org/10.1111/jbi.14545)
 
-## Capítulos de libro
+## Capítulos de libro / Book chapters
 * ### 2025
   * **Bird Conservation in the Neotropics: Gaps and Challenges in the Face of Anthropocene Threats**<br>
 en *New Perspectives in Ornithology: 21st Century Dispatches across the World of Birds, Capítulo: 23*<br>
@@ -211,7 +211,7 @@ Publisher: Universidad Autónoma del Estado de Hidalgo/Libermex<br>
 [Capítulo disponible](https://www.researchgate.net/publication/339181920_Una_breve_introduccion_a_los_modelos_de_nicho_ecologico)
 
 
-## Divulgación
+## Divulgación / Divulgation
 * ### 2025
   * **Mi primer modelo sobre dónde viven las especies. Una experiencia divulgativa**<br>
 Eco-lógico. Revista de divulgación científica INECOL<br>
